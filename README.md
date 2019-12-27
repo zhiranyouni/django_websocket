@@ -1,5 +1,6 @@
 # django_websocket
 ### 工作上需要制作一个实时大屏，需要使用websocket实时传递信息。但是之前对websockety一直不熟悉。
+[示例图](测试大屏图.png)
 
 主要使用的是channels，[参考官方教程写的代码](https://channels.readthedocs.io/)。教程已经写的很全了。解释很好.
 
